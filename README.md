@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TinasheJohnNesongano
-- 👀 I’m interested in database management systems
+- 👀 I’m interested in database management systems, systems administration, Network management and system development
 - 🌱 I’m currently learning information systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
